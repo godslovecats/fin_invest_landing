@@ -1,0 +1,50 @@
+@import "mixins";
+.btn {
+    background: transparent;
+    border: none;
+    outline: none;
+    display: block;
+    cursor: pointer;
+    &--arrow {
+        position: relative;
+        &:before {
+            content: '';
+            position: absolute;
+            transition: 0.3s ease-in-out;
+            right: 20px;
+            background: url('/static/btn-arrow.svg') no-repeat center;
+            background-size: contain;
+            width: 18px;
+            height: 18px;
+            top: calc(50% - 9px);
+        }
+        &:hover {
+            &:before {
+                content: '';
+                right: 15px;
+            }
+        }
+    }
+    &--base {
+        background: $base;
+        min-width: 270px;
+        border-radius: 2px;
+        padding: 1.2rem 3.57rem;
+        color: white;
+        font-size: 1rem;
+        transition: 0.3s ease-in-out;
+        &:hover {
+            background: $base;
+            color: white;
+            border-color: transparent;
+            transform: scale(1.05);
+        }
+        &:active {
+            background: $base-dark;
+        }
+    }
+    &--centred {
+        display: block;
+        margin: auto;
+    }
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 219.022 188.016">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #0f6cd6;
+        stroke: #fff;
+        stroke-width: 6px;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="black_portfolio-08" transform="translate(2.023 2.005)">
+    <path id="Shape" class="cls-1" d="M212.958,0V43.913a11.72,11.72,0,0,1-12.523,12.546H12.586A11.407,11.407,0,0,1,.062,43.913V0" transform="translate(0.99 126.476)"/>
+    <path id="Shape-2" data-name="Shape" class="cls-1" d="M50.093,0H0" transform="translate(1.052 126.476)"/>
+    <path id="Shape-3" data-name="Shape" class="cls-1" d="M62.616,0H0" transform="translate(76.192 126.476)"/>
+    <path id="Shape-4" data-name="Shape" class="cls-1" d="M50.093,0H0" transform="translate(163.855 126.476)"/>
+    <path id="Shape-5" data-name="Shape" class="cls-1" d="M.062,62.795V12.609A11.407,11.407,0,0,1,12.586.062H200.435a11.595,11.595,0,0,1,12.523,12.546V62.795" transform="translate(0.99 38.589)"/>
+    <path id="Shape-6" data-name="Shape" class="cls-1" d="M0,0V119.191" transform="translate(32.361 38.651)"/>
+    <path id="Shape-7" data-name="Shape" class="cls-1" d="M0,0V119.191" transform="translate(182.64 38.651)"/>
+    <path id="Shape-8" data-name="Shape" class="cls-1" d="M.014,12.56A11.971,11.971,0,0,1,12.537.014h75.14A11.971,11.971,0,0,1,100.2,12.56" transform="translate(57.393 0.998)"/>
+    <path id="Oval" class="cls-2" d="M9.392,0A9.41,9.41,0,1,1,0,9.41,9.4,9.4,0,0,1,9.392,0Z" transform="translate(98.108 70.017)"/>
+  </g>
+</svg>

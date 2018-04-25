@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95 93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #6ea6e6;
+      }
+    </style>
+  </defs>
+  <g id="black_taxes-31" transform="translate(1.5 1.49)">
+    <path id="Shape" class="cls-1" d="M0,5.456A5.474,5.474,0,0,1,5.493,0H40.26" transform="translate(0 19.079)"/>
+    <path id="Shape-2" data-name="Shape" class="cls-1" d="M71.4,27.281V49.106a5.474,5.474,0,0,1-5.493,5.456H5.493A5.474,5.474,0,0,1,0,49.106V0" transform="translate(0 35.448)"/>
+    <path id="Shape-3" data-name="Shape" class="cls-2" d="M0,19.1,19.224,0" transform="translate(56.299 16.379)"/>
+    <path id="Shape-4" data-name="Shape" class="cls-1" d="M0,0H43.94" transform="translate(13.731 76.37)"/>
+    <path id="Shape-5" data-name="Shape" class="cls-1" d="M0,0H21.97" transform="translate(13.731 68.185)"/>
+    <ellipse id="Oval" class="cls-1" cx="26.09" cy="25.917" rx="26.09" ry="25.917" transform="translate(39.821 0.01)"/>
+    <path id="Oval-2" data-name="Oval" class="cls-3" d="M4.119,0A4.092,4.092,0,1,1,0,4.092,4.106,4.106,0,0,1,4.119,0Z" transform="translate(71.403 29.992)"/>
+    <path id="Oval-3" data-name="Oval" class="cls-3" d="M4.119,0A4.092,4.092,0,1,1,0,4.092,4.106,4.106,0,0,1,4.119,0Z" transform="translate(52.179 13.623)"/>
+  </g>
+</svg>

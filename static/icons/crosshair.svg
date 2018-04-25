@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="5149 2445 70 69">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #00a2ff;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="icon" transform="translate(4351 65)">
+    <g id="Ellipse_130" data-name="Ellipse 130" class="cls-1" transform="translate(798 2380)">
+      <ellipse class="cls-2" cx="35" cy="34.5" rx="35" ry="34.5"/>
+      <ellipse class="cls-3" cx="35" cy="34.5" rx="33.5" ry="33"/>
+    </g>
+    <g id="Rectangle_2166" data-name="Rectangle 2166" class="cls-1" transform="translate(831 2382)">
+      <path class="cls-2" d="M0,0H4A0,0,0,0,1,4,0V14a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-3" d="M1.588,1.5h.824a.088.088,0,0,1,.088.088V14a.5.5,0,0,1-.5.5H2a.5.5,0,0,1-.5-.5V1.588A.088.088,0,0,1,1.588,1.5Z"/>
+    </g>
+    <g id="Rectangle_2167" data-name="Rectangle 2167" class="cls-1" transform="translate(866 2412) rotate(90)">
+      <path class="cls-2" d="M0,0H4A0,0,0,0,1,4,0V14a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-3" d="M1.588,1.5h.824a.088.088,0,0,1,.088.088V14a.5.5,0,0,1-.5.5H2a.5.5,0,0,1-.5-.5V1.588A.088.088,0,0,1,1.588,1.5Z"/>
+    </g>
+    <g id="Rectangle_2168" data-name="Rectangle 2168" class="cls-1" transform="translate(800 2416) rotate(-90)">
+      <path class="cls-2" d="M0,0H4A0,0,0,0,1,4,0V14a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-3" d="M1.588,1.5h.824a.088.088,0,0,1,.088.088V14a.5.5,0,0,1-.5.5H2a.5.5,0,0,1-.5-.5V1.588A.088.088,0,0,1,1.588,1.5Z"/>
+    </g>
+    <g id="Rectangle_2169" data-name="Rectangle 2169" class="cls-1" transform="translate(835 2447) rotate(-180)">
+      <path class="cls-2" d="M0,0H4A0,0,0,0,1,4,0V14a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-3" d="M1.588,1.5h.824a.088.088,0,0,1,.088.088V14a.5.5,0,0,1-.5.5H2a.5.5,0,0,1-.5-.5V1.588A.088.088,0,0,1,1.588,1.5Z"/>
+    </g>
+  </g>
+</svg>

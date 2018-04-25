@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 131.009 91.009">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="black_security-27" transform="translate(0.524 1.5)">
+    <ellipse id="Oval" class="cls-1" cx="4.57" cy="4.55" rx="4.57" ry="4.55" transform="translate(13.215 54.594)"/>
+    <path id="Shape" class="cls-2" d="M51.792,0H0" transform="translate(1.029 39.429)"/>
+    <path id="Shape-2" data-name="Shape" class="cls-2" d="M27.419,0H0" transform="translate(16.262 72.792)"/>
+    <path id="Shape-3" data-name="Shape" class="cls-2" d="M70.115,48.528H6.136A5.441,5.441,0,0,1,.043,42.462V0" transform="translate(0.986 39.429)"/>
+    <path id="Shape-4" data-name="Shape" class="cls-2" d="M0,6.066A7.083,7.083,0,0,1,6.093,0H48.746" transform="translate(1.029 21.231)"/>
+    <path id="Shape-5" data-name="Shape" class="cls-2" d="M39.606,87.957C24.373,80.375,2.072,54.382,0,21.231L39.606,0" transform="translate(49.774)"/>
+    <path id="Shape-6" data-name="Shape" class="cls-2" d="M39.606,20.079,0,0" transform="translate(89.38)"/>
+    <path id="Shape-7" data-name="Shape" class="cls-2" d="M0,54.776C13.283,48.225,31.41,26.9,37.686,0" transform="translate(89.38 33.181)"/>
+    <path id="Shape-8" data-name="Shape" class="cls-2" d="M0,0V87.957" transform="translate(89.38)"/>
+  </g>
+</svg>

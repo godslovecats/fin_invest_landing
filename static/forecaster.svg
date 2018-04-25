@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.153 58.179">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #00a2ff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Vector" transform="translate(-0.852 -0.994)">
+    <g id="Vector-2" data-name="Vector" transform="translate(2 2)">
+      <path id="Path_7569" data-name="Path 7569" class="cls-1" d="M30.267,47.534V35.678h-8.5V47.534h-5.1M38.764,35.678V47.534h5.1M33.53,22.33A13.268,13.268,0,0,1,46.938,9.2M31.544,55.659a2.543,2.543,0,1,0-3.482-.93A2.536,2.536,0,0,0,31.544,55.659ZM12,49.738a2.543,2.543,0,1,0-3.482-.93A2.536,2.536,0,0,0,12,49.738Zm40.02-.935a2.547,2.547,0,1,0-3.482.93A2.536,2.536,0,0,0,52.021,48.8ZM14.046,35.534l-1.929-.076a11.342,11.342,0,1,1-.263-22.646A18.249,18.249,0,0,1,45.2,9.348c.467-.042.943-.068,1.411-.068A13.09,13.09,0,0,1,48.9,35.3l-2.4.271Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

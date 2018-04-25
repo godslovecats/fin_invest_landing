@@ -1,0 +1,163 @@
+$base: #00A2FF;
+$base-dark: #0F6CD6;
+$gray: #8D8D8D;
+$gray-dark: #2A2B31;
+$green: #7AC231;
+$desktop: 1366px;
+$desktop--lg: 1920px;
+@mixin respond-to($media) {
+    @if $media==small-screens {
+        @media only screen and (max-width: $desktop) {
+            @content;
+        }
+    }
+    @else if $media==medium-screens {
+        @media only screen and (min-width: $desktop + 1) and (max-width: $desktop--lg - 1) {
+            @content;
+        }
+    }
+    @else if $media==wide-screens {
+        @media only screen and (min-width: $desktop--lg) {
+            @content;
+        }
+    }
+}
+
+@mixin container {
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+    padding: 0 15px;
+    @include respond-to(wide-screens) {
+        max-width: 1400px;
+    }
+}
+
+@mixin row {
+    display: flex;
+}
+
+@mixin row--c {
+    @include row;
+    justify-content: center;
+}
+
+@mixin row--vc {
+    @include row;
+    align-items: center;
+}
+
+@mixin row--sb {
+    @include row;
+    justify-content: space-between;
+}
+
+@mixin row--same-width {
+    flex: 1;
+}
+
+@mixin half-part {
+    width: 50%;
+}
+
+@mixin one-four-part {
+    width: 25%;
+}
+
+
+/* animations */
+
+@keyframes pulse {
+    0% {
+        transform: scale3d(1, 1, 1);
+    }
+    50% {
+        transform: scale3d(1.05, 1.05, 1.05);
+    }
+    100% {
+        transform: scale3d(1, 1, 1);
+    }
+}
+
+@keyframes card-changer {
+    30% {
+        transform: translateX(100%) scale(1);
+    }
+    70% {
+        transform: translateX(-10%);
+    }
+    100% {
+        transform: translateX(0%);
+    }
+}
+
+@keyframes rotating {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.rotating {
+    animation: rotating 1s linear infinite;
+}
+
+@keyframes drift {
+    0%,
+    100% {
+        transform: none;
+    }
+    50% {
+        transform: translateY(15%);
+    }
+}
+
+.slideInUp {
+    animation-name: slideInUp;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+
+@keyframes slideInUp {
+    0% {
+        -webkit-transform: translateY(100%);
+        transform: translateY(100%);
+        visibility: visible;
+    }
+    100% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+    }
+}
+
+@keyframes dash {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes rubberBand {
+    0% {
+        transform: scale3d(1, 1, 1);
+    }
+    30% {
+        transform: scale3d(1.25, 0.75, 1);
+    }
+    40% {
+        transform: scale3d(0.75, 1.25, 1);
+    }
+    50% {
+        transform: scale3d(1.15, 0.85, 1);
+    }
+    65% {
+        transform: scale3d(.95, 1.05, 1);
+    }
+    75% {
+        transform: scale3d(1.05, .95, 1);
+    }
+    100% {
+        transform: scale3d(1, 1, 1);
+    }
+}

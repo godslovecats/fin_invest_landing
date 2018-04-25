@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81.701 71.011">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #0f6cd6;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="black_loan-16" transform="translate(0.503 0.52)">
+    <path id="Shape" class="cls-1" d="M10.5,2.122C3.662-2.768.768,1.969,1.228,4.6S4.868,7.714,6.184,7.89C15.592,9.227,9.32,20.324,0,13.416" transform="translate(36.265 14.502)"/>
+    <path id="Shape-2" data-name="Shape" class="cls-1" d="M0,0V2.588" transform="translate(41.659 11.668)"/>
+    <path id="Shape-3" data-name="Shape" class="cls-1" d="M0,0V3.421" transform="translate(41.659 30.089)"/>
+    <path id="Shape-4" data-name="Shape" class="cls-1" d="M5.465,34.777A20.745,20.745,0,1,1,31.649,38.4" transform="translate(20.932 0.991)"/>
+    <path id="Shape-5" data-name="Shape" class="cls-1" d="M0,0V30.7" transform="translate(14.16 38.29)"/>
+    <path id="Shape-6" data-name="Shape" class="cls-1" d="M4.39,30.705A5.131,5.131,0,0,1,0,26.319V4.39A4.21,4.21,0,0,1,4.39,0h8.772" transform="translate(0.998 38.286)"/>
+    <path id="Shape-7" data-name="Shape" class="cls-1" d="M18.355,7.483H39.824L59.56.246A4.386,4.386,0,0,1,63.2,8.185L26.776,25.268,0,19.479" transform="translate(14.291 43.723)"/>
+    <path id="Shape-8" data-name="Shape" class="cls-1" d="M0,0H29.276" transform="translate(14.291 42.479)"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78.994 71.006">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #0f6cd6;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="black_investor" transform="translate(1.5 1.5)">
+    <path id="Shape" class="cls-1" d="M65.715,0A12,12,0,0,1,75.994,11.859c-2.62,2.9-16,4.52-30.818,4.92-4.74.12-9.639.12-14.379,0C16,16.359,2.66,14.719,0,11.859A12,12,0,0,1,10.279,0" transform="translate(0 51.136)"/>
+    <path id="Shape-2" data-name="Shape" class="cls-1" d="M0,0V8" transform="translate(37.997 59.996)"/>
+    <path id="Shape-3" data-name="Shape" class="cls-1" d="M2,0V10.179a2.58,2.58,0,0,0-2,2.62V17a2.76,2.76,0,0,0,2,2.82V22c0,10,9.019,18,20,18s20-8,20-18v-1.82A2.84,2.84,0,0,0,44,17V13a2.24,2.24,0,0,0-2-2.82V2" transform="translate(15.994 9.999)"/>
+    <path id="Shape-4" data-name="Shape" class="cls-1" d="M44,20H28C16,20,2.16,12,0,0H37c5,0,7,3.14,7,8Z" transform="translate(13.999)"/>
+    <path id="Shape-5" data-name="Shape" class="cls-1" d="M12,21,0,4,7,0" transform="translate(17.999 46.997)"/>
+    <path id="Shape-6" data-name="Shape" class="cls-1" d="M0,21,12,4,5,0" transform="translate(45.997 46.997)"/>
+  </g>
+</svg>

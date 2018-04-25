@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78.556 71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #0f6cd6;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="black_trend_up-43" transform="translate(1.5 1.5)">
+    <path id="Shape" class="cls-1" d="M0,32.741V68H20.148a5.037,5.037,0,0,0,5.037-5.037V5.037A5.037,5.037,0,0,0,20.148,0H5.037A5.037,5.037,0,0,0,0,5.037v17.63" transform="translate(50.37)"/>
+    <path id="Shape-2" data-name="Shape" class="cls-1" d="M0,20.148V42.815H25.185V0" transform="translate(25.185 25.185)"/>
+    <path id="Shape-3" data-name="Shape" class="cls-1" d="M25.185,0H5.037A5.037,5.037,0,0,0,0,5.037v7.556" transform="translate(25.185 22.667)"/>
+    <path id="Shape-4" data-name="Shape" class="cls-1" d="M0,5.037A5.037,5.037,0,0,1,5.037,0H25.185V22.667H5.037A5.037,5.037,0,0,1,0,17.63V5.037" transform="translate(0 45.333)"/>
+    <path id="Shape-5" data-name="Shape" class="cls-1" d="M25.185,0,0,22.667"/>
+    <path id="Shape-6" data-name="Shape" class="cls-1" d="M0,0H10.074" transform="translate(15.111)"/>
+    <path id="Shape-7" data-name="Shape" class="cls-1" d="M0,10.074V0" transform="translate(25.185)"/>
+    <path id="Shape-8" data-name="Shape" class="cls-1" d="M0,0,24.757,24.707" transform="translate(50.799 36.997)"/>
+    <path id="Shape-9" data-name="Shape" class="cls-1" d="M0,0,13.424,13.373" transform="translate(50.799 53.367)"/>
+    <path id="Shape-10" data-name="Shape" class="cls-1" d="M0,0,24.757,24.707" transform="translate(50.799 20.627)"/>
+    <path id="Shape-11" data-name="Shape" class="cls-1" d="M0,0,25.185,23.926" transform="translate(50.37 5.037)"/>
+    <path id="Shape-12" data-name="Shape" class="cls-1" d="M0,0,15.111,15.111" transform="translate(60.444)"/>
+  </g>
+</svg>
